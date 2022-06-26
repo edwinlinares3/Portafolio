@@ -1,0 +1,9 @@
+.centrar video{
+    margin-top: 2cm;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    margin-bottom: 0.3cm;
+    display: inline-table;
+    vertical-align: top;
+    text-align: center;
+}
