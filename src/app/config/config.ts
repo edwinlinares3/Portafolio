@@ -63,7 +63,7 @@ export const config = {
     },
 
     servicesComponent:{
-        VISUALIZATION:'NUESTROS SERVICIOS',
+        VISUALIZATION:'HABILIDADES',
         ZOOM:'ROBOTICA',
         PROGRAMMING:'ELECTRICO',
         GRAPHICS:'DISEÑO',
