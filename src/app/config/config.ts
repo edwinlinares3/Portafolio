@@ -4,7 +4,7 @@ export const config = {
         Home:'home',
         About:'About',
         Services:'Link',
-        Resume:'Resume',
+        Resume:'Formacion',
         Work:'Destrezas',
         Contact:'Contacto',
         Login: 'login',
@@ -13,7 +13,7 @@ export const config = {
     },
     aboutComponent:{
         welcom:'Bienvenido!',
-        Descripcion:'Ingeniero mecatrónico con experiencia en coordinación y ejecución de proyectos principalmente en redes de distribución eléctrica tanto en estructuras aéreas como subterráneas de media/baja tensión para circuitos de subestaciones de distribución en ciudades principales y centros de distribución con sistemas de control asociados. Cuento con conocimientos en mantenimiento y reparación de equipos industriales, con habilidades en diagnosticar y proponer soluciones para el mejoramiento de procesos productivos, experiencia en adaptar e implementar tecnologías para el funcionamiento y conservación de equipos eléctricos y electrónicos, responsable, dinámico, con excelente relaciones interpersonales y facilidad de adaptación a diferentes actividades laborales.',
+        Descripcion:'Ingeniero mecatrónico con experiencia en coordinación y ejecución de proyectos principalmente en redes de distribución eléctrica tanto en estructuras aéreas como subterráneas de media/baja tensión para circuitos de subestaciones de distribución en ciudades principales y centros de distribución con sistemas de control asociados.',
         Name:'Nombre',
         Age:'.COC.',
         Experience:'Experience',
@@ -54,11 +54,11 @@ export const config = {
 
     SubPortfolioComponent:{
         //DETALLES IMBORRABLES
-        titulo:'PRODUCTOS',
+        titulo:'GALERIA',
         boton1:'Todo',
-        boton2:'Destacado',
-        boton3:'Galgueria',
-        boton4:'Combo',
+        boton2:'Diseño',
+        boton3:'Desarrollo',
+        boton4:'Impresion',
  
     },
 
