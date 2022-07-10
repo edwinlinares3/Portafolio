@@ -13,8 +13,8 @@ export const config = {
     },
     aboutComponent:{
         welcom:'Bienvenido!',
-        Descripcion:'Para nosotros es un honor que te encuentre visitando esta página, este sitio esta diseñado para dar a conocer nuestro trabajo somos un grupo de profesionales que contamos con habilidades y conocimiento en diseño, accesoria y puesta en marcha de trabajos principal mente en el sector eléctrico y electrónico a nivel residencial, comercial e industrial para pequeñas y medianas empresas, realizamos trabajos en diferentes áreas de la ingeniería desde el cableado básico de iluminación hasta la automatización y puesta en marcha de procesos industriales.',
-        Name:'Ingeniero',
+        Descripcion:'Soy Ingeniero mecatrónico con experiencia en coordinación y ejecución de proyectos principalmente en redes de distribución eléctrica tanto en estructuras aéreas como subterráneas de media/baja tensión para circuitos de subestaciones de distribución en ciudades principales y centros de distribución con sistemas de control asociados. Cuento con conocimientos en mantenimiento y reparación de equipos industriales, con habilidades en diagnosticar y proponer soluciones para el mejoramiento de procesos productivos, experiencia en adaptar e implementar tecnologías para el funcionamiento y conservación de equipos eléctricos y electrónicos, responsable, dinámico, con excelente relaciones interpersonales y facilidad de adaptación a diferentes actividades laborales.',
+        Name:'Nombre',
         Age:'.COC.',
         Experience:'Experience',
         Country:'Pais',
@@ -36,9 +36,9 @@ export const config = {
 
     },
     headerComponent:{
-        Welcom: 'Innovacion Electrica',
+        Welcom: 'Portafolio Profesional',
         Name:'BIENVENIDOS',
-        Descripcion:'Monitoreo en linea y fuera de linea',//Online and offline monitoring
+        Descripcion:'Ingeniero Mecatronico Con Especializacion Gerencia De Mantenimiento',//Online and offline monitoring
         Boton:'ACERCA DE'
     },
 
@@ -63,9 +63,9 @@ export const config = {
     },
 
     servicesComponent:{
-        VISUALIZATION:'HABILIDADES',
+        VISUALIZATION:'CONOCIMIENTO',
         ZOOM:'ROBOTICA',
-        PROGRAMMING:'ELECTRICO',
+        PROGRAMMING:'ELECTRICIDAD',
         GRAPHICS:'DISEÑO',
         EXIT_OF_OPERATION:'CONSULTORÍA',
 
@@ -73,7 +73,7 @@ export const config = {
         ZOOMDES:'PROGRAMACION EN PLC - RASPBERRY - ARDUINO - STM32.',
         PROGRAMMINGDES:'INSTALACION DE CIRCUITOS, TABLEROS DE CONTROL Y POTENCIA',
         GRAPHICSDES:'INFORMES, PLANOS, MODELADO EN AUTOCAD Y SOLIDWORKS',
-        EXIT_OF_OPERATIONDES:'ELECTRICIDAD,ELECTRONICA, INDEPENDIZACION DE CUENTAS',
+        EXIT_OF_OPERATIONDES:'ELECTRICIDAD,ELECTRONICA Y DESARROLLO WEB BASICO',
 
     },
     contactComponent:{
