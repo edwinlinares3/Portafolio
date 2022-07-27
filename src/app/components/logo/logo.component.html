@@ -16,6 +16,13 @@
           <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="onepage-nev navbar-nav mr-auto w-100 justify-content-end clearfix">
 
+                       <!--MENU RESUME-->          
+         <li class="nav-item">
+          <a class="nav-link" routerLink="/resume" target="">
+            {{config.menuComponent.Resume}}
+          </a>
+        </li>
+
               <!--MENU WORK-->          
              <li class="nav-item">
               <a class="nav-link" routerLink="/portfolio" target="" >
@@ -23,24 +30,17 @@
               </a>
             </li>
 
-         <!--MENU RESUME-->          
-         <li class="nav-item">
-          <a class="nav-link" routerLink="/resume" target="">
-            {{config.menuComponent.Resume}}
-          </a>
-        </li>
-
              <!--MENU SUB-PORFOLIO-->          
              <li class="nav-item">
               <a class="nav-link" routerLink="/sub-porfolio" target="">GALERIA</a>
             </li>
 
                    <!--MENU CONTACTO--> 
-     <li class="nav-item">
+     <!--<li class="nav-item">
       <a class="nav-link" routerLink="/contact" target="">
         {{config.menuComponent.Contact}}
       </a>
-    </li>
+    </li>-->
 
     <!-- Mobile Menu Start -->
       <ul class="onepage-nev mobile-menu">
@@ -62,9 +62,9 @@
       <li>
         <a routerLink="/sub-porfolio">Galeria</a>
       </li>
-      <li>
+      <!--<li>
         <a routerLink="/contact">Contacto</a>
-      </li>
+      </li>-->
     </ul>
       <!-- Mobile Menu End -->
   
