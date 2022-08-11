@@ -13,7 +13,7 @@ export const config = {
     },
     aboutComponent:{
         welcom:'Bienvenido!',
-        Descripcion:'Ingeniero mecatrónico con experiencia en coordinación y ejecución de proyectos principalmente en redes de distribución eléctrica tanto en estructuras aéreas como subterráneas de media/baja tensión para circuitos de subestaciones de distribución en ciudades principales y centros de distribución con sistemas de control asociados.',
+        Descripcion:'Somos un grupo de profesionales de diferentes especializades de la ingeniería nos caracterizamos por nuestro dinamismo e innovación en soluciones, brindamos asesoría integral sobre soluciones e infraestructura eléctrica, electrónica desarrollando soluciones que se  ajustan  a  los requerimientos   específicos  de  cada  cliente,  dando  soluciones  unificadas  y convergentes, ofrecemos siempre una excelente solución usando materiales de primera y  el  mejor equipo humano',
         Name:'Nombre',
         Age:'.COC.',
         Experience:'Experience',
