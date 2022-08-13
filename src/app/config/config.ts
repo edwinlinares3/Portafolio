@@ -13,7 +13,7 @@ export const config = {
     },
     aboutComponent:{
         welcom:'Bienvenido!',
-        Descripcion:'Somos un grupo de profesionales de diferentes especializades de la ingeniería nos caracterizamos por nuestro dinamismo e innovación en soluciones, brindamos asesoría integral sobre soluciones e infraestructura eléctrica, electrónica desarrollando soluciones que se  ajustan  a  los requerimientos   específicos  de  cada  cliente,  dando  soluciones  unificadas  y convergentes, ofrecemos siempre una excelente solución usando materiales de primera y  el  mejor equipo humano',
+        Descripcion:'Somos un grupo de profesionales de diferentes especializades de la ingeniería nos caracterizamos por nuestro dinamismo e innovación, brindamos asesoría integral sobre infraestructura eléctrica, electrónica y automatizacion industrial, desarrollando metodos que se  ajustan  a  los requerimientos   específicos  de  cada  cliente,  dando  soluciones  unificadas  y convergentes, ofrecemos siempre una excelente opcion usando materiales de primera y  el  mejor equipo humano.',
         Name:'Nombre',
         Age:'.COC.',
         Experience:'Experience',
@@ -54,7 +54,7 @@ export const config = {
 
     SubPortfolioComponent:{
         //DETALLES IMBORRABLES
-        titulo:'GALERIA',
+        titulo:'PRODUCTOS',
         boton1:'Todo',
         boton2:'Diseño',
         boton3:'Desarrollo',
