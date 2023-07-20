@@ -38,7 +38,7 @@ export const config = {
     headerComponent:{
         Welcom: 'Portafolio Profesional',
         Name:'BIENVENIDOS',
-        Descripcion:'Ingeniero Mecatronico Con especializacion Gerencia De Mantenimiento',//Online and offline monitoring
+        Descripcion:'Emprendimiento',//Online and offline monitoring
         Boton:'ACERCA DE'
     },
 
